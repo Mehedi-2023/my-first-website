@@ -1,9 +1,12 @@
 body{
     margin: 0;
     padding: 0;
+    background: #000;
+
 }
 
 h1{
     color: brown;
     font-size: 44px;
+    background: #da9e9e;
 }
